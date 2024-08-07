@@ -1,0 +1,4 @@
+*.pyc  
+*~  
+Blogproject/__pycache__
+blogenv

@@ -1,0 +1,48 @@
+form {  
+    background-color: rgba(0, 0, 0, 0.196); ;
+    margin: auto;
+    margin-top: 90px;
+    padding: 30px; 
+    width: 50%;
+    border: 2px solid rgba(2, 8, 26, 0.93);
+    }
+    h3{
+        color: rgb(98, 233, 240);
+    }
+    h6,h5{
+        color:aliceblue;
+    }
+    body{
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position:right top;
+        background-size: cover;
+    }
+    .demo{
+        color: aliceblue;
+    }
+    .form label{
+        text-align: left;
+    } 
+    .myrow{
+        padding-left: 80px;
+    } 
+    /* .demo h3{
+        text-align: center;
+        padding-bottom:30px;
+    } */
+     /*show*/
+    .blogbox{
+        /* margin-top: 5px; */
+        border: 2px solid rgb(155, 197, 16);
+        background-color: rgba(0, 0, 0, 0.312);
+        border-radius: 3px;
+        width: 800px;
+        padding-top: 5px;
+    }
+    .blogbox h6{
+        text-align: right;
+        padding-right: 10px;
+    }
+  
+  

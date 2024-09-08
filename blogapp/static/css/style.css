@@ -8,6 +8,7 @@ form {
     }
     h3{
         color: rgb(98, 233, 240);
+        padding-left: 250px;
     }
     h6,h5{
         color:aliceblue;
@@ -24,9 +25,9 @@ form {
     .form label{
         text-align: left;
     } 
-    .myrow{
+    /* .myrow{
         padding-left: 80px;
-    } 
+    }  */
     /* .demo h3{
         text-align: center;
         padding-bottom:30px;

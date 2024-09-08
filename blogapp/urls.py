@@ -3,7 +3,8 @@ from django.urls import path
 from blogapp import views  
 urlpatterns = [  
     # path('admin/', admin.site.urls),  
-    path('emp', views.emp,name="emp"),  
+    path('emp', views.emp,name="emp"),
+    path('',views.show,name="show"), 
     path('show',views.show,name="show"),  
     path('edit/<int:id>', views.edit),  
     path('update/<int:id>', views.update),  
